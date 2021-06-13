@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M786453
-- 👀 I’m interested in prgramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science 
 - 📫 You can reach me using this email: ahteshamsarwar333@gmail.com
 
