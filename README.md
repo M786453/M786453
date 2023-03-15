@@ -4,11 +4,11 @@
 
 **PROGRAMMING LANGUAGES**
     
-      Python | Java | C/C++ | Assembly | SQL | BASH
+      PYTHON | JAVA | C/C++ | ASSEMBLY | SQL | BASH
 
 **TOOLS**
 
-      Linux | Burpsuite | OWASP ZAP | Wireshark | Android Studio | Adobe Photoshop
+      LINUX | BURPSUITE | OWASP ZAP | WIRESHARK | ANDROID STUDIO | ADOBE PHOTOSHOP
 
 **CONTACT**
       
