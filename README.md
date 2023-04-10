@@ -4,7 +4,7 @@
 
 **PROGRAMMING LANGUAGES**
     
-      PYTHON | JAVA | C/C++ || JAVASCRIPT
+      PYTHON | JAVA | C/C++ | JAVASCRIPT
 
 **CONTACT**
       
