@@ -25,5 +25,5 @@
 
 **CONTACT**
       
-      ahteshamsarwar333@gmail.com
+      EMAIL[ahteshamsarwar333@gmail.com] | DISCORD[_m45t3r]
 
