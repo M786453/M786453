@@ -1,7 +1,7 @@
 <div align='center'>
       <h1>WELCOME</h1>
       <p>I am Computer Science Student. I love to participate in CTFs and Hackathons. Always willing to contribute in interesting projects.</p>
-<div/>
+</div>
       
 **SKILLS & INTEREST**
       
