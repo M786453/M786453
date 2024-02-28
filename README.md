@@ -4,7 +4,7 @@
 </div>
       
 **SKILLS & INTEREST**
-<!-- {.no-copy} -->
+      <!-- {.no-copy} -->
       CYBER SECURITY | AUTOMATION | DEVELOPMENT | ARTIFICIAL INTELLIGENCE
 
 
