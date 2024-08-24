@@ -16,11 +16,11 @@
 <div style="display:flex; justify-content:center; align-items:center;">
   
   <a href="https://github.com/M786453" style="margin:20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M786453&card_width=250&card_height=197&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M786453&card_width=250&card_height=197&theme=transparent" width=200 height=120 />
   </a>
 
   <a href="https://github.com/M786453" style="margin:20px;">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M786453&layout=donut&theme=transparent"/>
+    <img height=150 width=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M786453&layout=donut&theme=transparent"/>
   </a>
 
 </div>
