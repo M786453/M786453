@@ -5,7 +5,7 @@
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
 
 
-<div style="display:flex;flex-direction:column;gap:2rem;margin:10px;justify-content:center;align-items:center;">
+<div align=center style="display:flex;flex-direction:column;gap:2rem;margin:10px;justify-content:center;align-items:center;">
 
 
 ## <picture><img src = "https://github.com/M786453/M786453/raw/main/images/about_me.gif" width = 50px></picture> **About me**
