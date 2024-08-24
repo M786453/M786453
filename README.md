@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/M786453/M786453/raw/main/images/about_me.gif" width = 50px></picture> **About me**
   <p align=center >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=100&multiline=true&width=250&height=250&color=006AFF&lines=SOFTWARE ENGINEER;TECHNOLOGY ENTHUSIAST;OPEN SOURCE CONTRIBUTOR;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=100&multiline=true&width=250&height=80&color=006AFF&lines=SOFTWARE ENGINEER;TECHNOLOGY ENTHUSIAST;OPEN SOURCE CONTRIBUTOR;" alt="Typing SVG" />
   </p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M786453&layout=donut&theme=transparent"/>
   <p></p>
