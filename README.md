@@ -1,30 +1,17 @@
-<div align='center'>
-      <h1>WELCOME</h1>
-      <p>I am Computer Science Student. I love to participate in CTFs and Hackathons. Always willing to contribute in interesting projects.</p>
-</div>
-      
-**SKILLS & INTEREST**
-      
-      CYBER SECURITY | AUTOMATION | DEVELOPMENT | ARTIFICIAL INTELLIGENCE
+<img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
 
+## <picture><img src = "https://github.com/M786453/M786453/raw/main/images/about_me.gif" width = 50px></picture> **About me**
 
-**PROGRAMMING LANGUAGES**
-    
-      PYTHON | JAVA | C/C++ | C# | JAVASCRIPT | BASH | ASSEMBLY
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=100&multiline=true&width=500&height=80&color=9B2ADD&lines=SOFTWARE ENGINEER | TECHNOLOGY ENTHUSIAST | OPEN SOURCE ENTHUSIAST;" alt="Typing SVG" />
 
-**TECHNOLOGIES & FRAMEWORKS**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=M786453&label=Profile%20views&color=0e75b6&style=flat&base=142010" alt="darmorgamz" /> </p>
 
-       PYTHON REQUESTS | SELENIUM | DJANGO | FLASK | HTML | CSS | .NET | DOCKER
+<a href="https://github.com/M786453">
+  <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/M786453?cardType=level&theme=midnight-purple&preferLogin=false&Ring=9B2ADD&Title=9B2ADD" />
 
-**TOOLS**
+</a>
+<a href="https://github.com/M786453">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M786453&layout=donut&theme=midnight-purple&ring_color=9B2ADD&title_color=9B2ADD&card_width=320" />
+</a>
 
-      ANDROID STUDIO | BURPSUITE | GHIDRA | UNITY ENGINE
-
-**OS**
-
-      LINUX | WINDOWS
-
-**CONTACT**
-      
-      EMAIL[ahteshamsarwar333@gmail.com] | DISCORD[_m45t3r]
-
+<img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
