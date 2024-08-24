@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://github.com/M786453">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M786453&layout=donut"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M786453&layout=donut&theme=transparent"/>
   </a>
 
   <a href="https://github.com/M786453">
