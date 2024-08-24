@@ -13,14 +13,18 @@
   <a href="https://github.com/M786453">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M786453&theme=transparent" />
   </a>
+
+  
+  <a href="https://github.com/M786453">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M786453&hide_border=true&card_width=200&theme=transparent" />
+  </a>
+
+  <br>
   
   <a href="https://github.com/M786453">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M786453&layout=donut&theme=transparent"/>
   </a>
 
-  <a href="https://github.com/M786453">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M786453&hide_border=true&card_width=200&theme=transparent" />
-  </a>
   
 </p>
 
