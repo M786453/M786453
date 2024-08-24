@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@M786453?theme=asoul" />
+  <img src="https://count.getloli.com/get/@M786453?theme=gelbooru" />
 </p>
 
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
