@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@M786453?theme=gelbooru" />
+  <img src="https://komarev.com/ghpvc/?username=M786453&color=blue" />
 </p>
 
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
