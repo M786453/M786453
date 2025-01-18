@@ -18,6 +18,15 @@ Currently offering freelance services as Python Developer.
 Always exploring new opportunities to grow and create 
 impact through technology.
 
+### 🏆 Achievements
+
+- 🥇 **Academic Excellence**: 3.63 CGPA
+- 🌟 **Global Competitions**: 
+  - **Top 3** in Semantic Search AI Hackathon
+  - **Silver Badges** in Problem Solving and Python on HackerRank - Coding Platform.
+  - Participated in multiple **GEN AI Hackathons** on Lablab.ai Platform.
+  - Participated in **Advent of code 2024** and solved 25 days challenges.
+
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
 
 <div align=center>
