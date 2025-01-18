@@ -21,12 +21,12 @@ impact through technology.
 ### 🏆 Achievements
 
 - 🥇 **Academic Excellence**: 3.63 CGPA
+- 🥇 **Programming Excellence**: **Silver Badges** in Problem Solving and Python on HackerRank - Coding Platform.
 - 🌟 **Global Competitions**: 
   - **Top 3** in Semantic Search AI Hackathon
-  - **Silver Badges** in Problem Solving and Python on HackerRank - Coding Platform.
-  - Participated in multiple **GEN AI Hackathons** on Lablab.ai Platform.
   - Participated in **Advent of code 2024** and solved 25 days challenges.
-
+  - Participated in multiple **GEN AI Hackathons** on Lablab.ai Platform.
+  
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
 
 <div align=center>
