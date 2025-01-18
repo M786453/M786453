@@ -20,7 +20,7 @@ impact through technology.
 
 ### 🏆 Achievements
 
-- 🥇 **Academic Excellence**: 3.63 CGPA
+- 🎓 **BS Computer Science**: 3.63 CGPA
 - 🥈 **Programming Excellence**: **Silver Badges** in Problem Solving and Python on HackerRank - Coding Platform.
 - 🌟 **Global Competitions**: 
   - **Top 3** in Semantic Search AI Hackathon
