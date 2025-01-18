@@ -13,6 +13,10 @@
     <a href="https://www.hackerrank.com/profile/ahteshamsarwar31" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://lablab.ai/u/@ahtesham_sarwar54" target="_blank">
+    <img src="https://img.shields.io/badge/LabLabAI-FFFFFF?style=for-the-badge&logo=lablabai&logoColor=black" alt="LabLabAI" />
+    </a>
   </p>
 </div>
 
@@ -42,6 +46,33 @@ impact through technology.
   <img src="https://img.shields.io/badge/Requests-FFFFFF?style=for-the-badge&logo=request&logoColor=black" />
   <img src="https://img.shields.io/badge/Selenium-778899?style=for-the-badge&logo=selenium&logoColor=green" />
 </p>
+
+### 🌟 Featured Projects
+- [**Semantotube**](https://github.com/fatima-malik99/Web-Agency-Theme) 
+  - Custom WordPress theme with admin dashboard integration
+  - User-friendly theme settings interface
+  - Optimized scripts and responsive design
+
+- [**Related Posts Plugin**](https://github.com/mqurban/WP_TechTitans) 
+  - Custom interface for related content management
+  - Multiple display options (random, cached, custom)
+  - Automated thumbnail generation
+  - List view option for image-free display
+
+- [**Offline Edubot**](https://lablab.ai/event/edge-runners-3-point-2/edge-powerhouse/offline-edubot) 
+  - AI-based offline education tutor using NLP & ML
+  - Fine-tuned LLAMA 3.2 model
+  - Personalized learning with preloaded content
+
+- [**SlipStream**](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/ai_in_multiverse/?tab=project) 
+  - Interactive Leaflet.js map for landslide risk areas
+  - Risk visualization and assessment tools
+  - NASA Space Apps Challenge project
+
+- [**Contact Form Plugin**](https://github.com/fatima-malik99/Contact-form-Plugin) 
+  - WordPress data collection plugin
+  - Admin dashboard for data management
+  - Shortcode integration for easy deployment
   
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
 
