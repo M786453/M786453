@@ -26,6 +26,15 @@ impact through technology.
   - **Top 3** in Semantic Search AI Hackathon
   - Participated in **Advent of code 2024** and solved 25 days challenges.
   - Participated in multiple **GEN AI Hackathons** on Lablab.ai Platform.
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
   
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
 
