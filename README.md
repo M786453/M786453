@@ -31,9 +31,9 @@ impact through technology.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-F7DF1E?style=for-the-badge&logo=django&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-E34F26?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
   
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
