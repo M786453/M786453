@@ -65,7 +65,7 @@ impact through technology.
   - Aims to eliminate the language barrier on the YouTube
   - Developed using Python Django, Openai's Whisper, Google's GTTS library, and Openai's Chat Completion API.
 
- - [**Google Meet Automation**](https://github.com/M786453/GoogleMeetAutomation) 
+- [**Google Meet Automation**](https://github.com/M786453/GoogleMeetAutomation)
   - A simple tool to automate the process of creating, joining, and managing Google Meet sessions.
   - Developed using Python Flask and Selenium.
 
