@@ -35,7 +35,7 @@ impact through technology.
   <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Requests-FFFFFF?style=for-the-badge&logo=requests&logoColor=black" />
-<!--   <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black" /> -->
+  <img src="https://img.shields.io/badge/Flask-778899?style=for-the-badge&logo=selenium&logoColor=green" />
 </p>
   
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
