@@ -51,9 +51,16 @@ impact through technology.
 - [**Semantotube**](https://github.com/M786453/Semantotube) 
   - Help user to find information in YouTube video using AI Semantic Search.
   - Secured **3rd place** in Semantic Search AI Hackathon.
-  - Developed Rest API for application using Python Flask.
+  - Developed Rest API for application using Python Flask and Cohere.
   - Optimized scripts and responsive design.
   - [Hackathon Link](https://lablab.ai/event/semantic-search-hackathon/giga-chads/semantotube)
+
+- [**Law Suite**](https://github.com/M786453/Law-Suite) 
+  - A Generative AI Chatbot to deliver intuitive, efficient, and accessible legal consultation services.
+  - Developed Rest API for application using Python Flask, Cohere and Qdrant.
+  - Presented in Multilingual Semantic Search Hackathon.
+  - Optimized scripts and responsive design.
+  - [Hackathon Link](https://lablab.ai/event/multilingual-semantic-search-hackathon/the-soloist/lawsuite)
   
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
 
