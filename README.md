@@ -11,7 +11,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://www.hackerrank.com/profile/ahteshamsarwar31" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
   </p>
 </div>
