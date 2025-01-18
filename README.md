@@ -22,8 +22,6 @@
   </p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M786453&layout=donut&theme=transparent"/>
   <p></p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M786453&theme=transparent" />
-  <p></p>
 </div>
 
 <img src="https://github.com/M786453/M786453/raw/main/images/cool_bar.gif">
