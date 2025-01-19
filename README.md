@@ -20,7 +20,7 @@
   </p>
 </div>
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 Computer Science graduate, passionate Software Engineer. 
 Currently offering freelance services as Python Developer.
