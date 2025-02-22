@@ -9,10 +9,10 @@
     <a href="mailto:ahteshamsarwar333@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
     </a>
-    &nbsp;&nbsp;
+<!--     &nbsp;&nbsp;
     <a href="https://leetcode.com/u/ahteshamsarwar/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=gray" alt="Leetcode" />
-    </a>
+    </a> -->
     &nbsp;&nbsp;
     <a href="https://www.hackerrank.com/profile/ahteshamsarwar31" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
