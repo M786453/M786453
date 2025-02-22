@@ -11,7 +11,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://leetcode.com/u/ahteshamsarwar/" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-2EC866?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" />
+    <img src="https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=gray" alt="Leetcode" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.hackerrank.com/profile/ahteshamsarwar31" target="_blank">
